@@ -46,8 +46,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!DOCTYPE html>
 <html lang="es">
     <meta charset="UTF-8">
-    <title>Iniciar Sesión - Gestión de Salones</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión - Gestión de Salones</title>   
     <style>
         body {
             font-family: Arial, sans-serif;
